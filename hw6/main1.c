@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int i=2;
+    int i=10;
     if(i%15==0){
         printf("Love IU\n");
     }
