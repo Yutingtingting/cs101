@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int i=5;
+    int i=10;
     if(i%2 == 0){
         printf("%d is true\n",i);    
     }
